@@ -8,9 +8,8 @@ nav_order: 3
 ---
 
 <!-- _pages/projects.md -->
----
+
 ### Working papers
----
 
 <div class="publications">
 
