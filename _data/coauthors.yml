@@ -1,3 +1,48 @@
+"agarwal":
+  - firstname: ["Isha"]
+    url: https://agarwalisha.com/
+
+"baldauf":
+  - firstname: ["Markus"]
+    url: https://sites.google.com/site/mbaldauf/
+
+"davidoff":
+  - firstname: ["Thomas"]
+    url: https://blogs.ubc.ca/davidoff/
+
+"favilukis":
+  - firstname: ["Jack"]
+    url: https://sites.google.com/site/jackfavilukis/home
+
+"garlappi":
+  - firstname: ["Lorenzo"]
+    url: https://sites.google.com/site/lorenzogarlappi/
+
+"hu":
+  - firstname: ["Malin"]
+    url: https://malin-hu.github.io/
+
+"jiang":
+  - firstname: ["Erica"]
+    url: https://sites.google.com/view/ericajiang
+
+"li":
+  - firstname: ["Xiyue"]
+    url: https://www.ellenxiyueli.com/
+
+"lu":
+  - firstname: ["Dongliang"]
+    url: https://www.linkedin.com/in/dongliang-lu/?locale=en_US
+
+"roman":
+      - firstname: ["Raluca A."]
+        url: https://www.philadelphiafed.org/our-people/raluca-a-roman
+
+"zheng":
+      - firstname: ["Keling"]
+        url:
+
+
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
