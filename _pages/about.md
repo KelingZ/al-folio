@@ -23,3 +23,10 @@ social: true # includes social icons at the bottom of the page
 Hello! I am a Ph.D. Candidate in Finance at the University of British Columbia, Sauder School of Business.
 
 My main research interests are in financial intermediation and real estate.
+
+&emsp; * JMP:  :runner:
+
+&emsp; * CV: [<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/file.svg" width="15" height="15">](/assets/pdf/CV.pdf)
+
+ 
+
