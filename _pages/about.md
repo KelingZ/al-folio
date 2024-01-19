@@ -20,6 +20,6 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-I am a Ph.D. Candidate in Finance at the University of British Columbia, Sauder School of Business.
+Hello! I am a Ph.D. Candidate in Finance at the University of British Columbia, Sauder School of Business.
 
 My main research interests are in financial intermediation and real estate.
